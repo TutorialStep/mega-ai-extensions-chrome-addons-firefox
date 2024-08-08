@@ -188,13 +188,13 @@ Links
 <!--
 Statuses
 -->
-[f]:https://github.com/yousefebrahimi0/list-ai-extensions-chrome-addons-firefox/blob/main/images/f-icon.png "Firefox Add-on is available"
-[c]:https://github.com/yousefebrahimi0/list-ai-extensions-chrome-addons-firefox/blob/main/images/c-icon.png "Chrome Extension is available"
+[f]:https://github.com/TutorialStep/list-ai-extensions-chrome-addons-firefox/blob/main/images/f-icon.png "Firefox Add-on is available"
+[c]:https://github.com/TutorialStep/list-ai-extensions-chrome-addons-firefox/blob/main/images/c-icon.png "Chrome Extension is available"
 
 <!--
 Twitter Intent
 -->
-[twitter-intent]:https://twitter.com/intent/tweet?url=https://github.com/yousefebrahimi0/list-ai-extensions-chrome-addons-firefox&hashtags=AI
+[twitter-intent]:https://twitter.com/intent/tweet?url=https://github.com/TutorialStep/mega-ai-extensions-chrome-addons-firefox&hashtags=AI
 
 <!--
 Twitter Badge
